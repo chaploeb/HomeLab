@@ -1,2 +1,2 @@
 # HomeLab
-## A collection of samples from my HomeLab
+## A glance into my HomeLab
